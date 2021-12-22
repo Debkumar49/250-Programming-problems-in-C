@@ -1,4 +1,4 @@
-# 250-Programming-problems-in-C
+# 250-Programming-problems-in-C (Easy To hard)
 Solving all the problems in C programming 
 250+ C Programs for Practice PDF 
 
